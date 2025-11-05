@@ -1,6 +1,6 @@
 # Proxmox 設置
 
-- [KVM 文件 Repository](https://github.com/detectviz/pro-ws-w680-ace-ipmi)
+- [KVM 文件 Repository](https://github.com/detectviz/kvm-ipmi-guide)
 
 - [Proxmox 官網 下載 ISO 檔案](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
  > 8.4-1 版本較穩定，目前最新版本是 9.0-1
